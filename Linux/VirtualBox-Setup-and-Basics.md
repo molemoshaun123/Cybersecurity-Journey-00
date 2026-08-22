@@ -17,3 +17,4 @@ Here are some of the fundamental commands I learned during my TryHackMe Linux Fu
 - `echo`: Used to print text to the terminal or write to files.
 - `find`: Used to search for files in a directory hierarchy.
 - `grep`: Used to search for specific text within files.
+- `sudo mkdir`: `mkdir` (Make Directory) creates a new folder. Adding `sudo` in front of it gives me "Superuser" (administrator) powers, allowing me to create folders in protected areas of the computer!

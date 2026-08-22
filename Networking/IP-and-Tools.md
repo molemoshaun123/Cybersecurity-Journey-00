@@ -10,7 +10,7 @@ Every device on the internet needs an address, just like a house.
 ## Essential Network Commands
 When using my Linux machine, I use these tools in the terminal:
 
-- **`ping`:** This command acts like a sonar. You type `ping google.com` and it sends small packets of data to Google. If Google receives it, it replies back. This tells me if a website or computer is online and reachable.
+- **`ping`:** This command acts like a sonar to see if a website or computer is online. Even cooler, I learned I can use it to find the IP address of a company! If I type `ping company.com` (like google or tryhackme), the terminal will show me the exact IP address behind that company's website.
 - **`ifconfig`:** (Interface Configuration). I use this command to see my own computer's IP address and check if my network adapter is working properly. 
 
 ## Wireshark & The TCP 3-Way Handshake
