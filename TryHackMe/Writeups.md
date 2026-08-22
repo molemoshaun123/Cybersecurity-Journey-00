@@ -1,28 +1,31 @@
-# TryHackMe Writeups & Summaries
+# TryHackMe Room Summaries
 
 Documenting my progress on the TryHackMe platform. I currently hold a 21-day learning streak! 🔥
 
-Below is a summary of the rooms I've completed so far:
+Here is a summary of what I learned in each room, explained in simple English:
 
-## 🌐 Networking
-- **What is Networking?:** Learned the core concepts of computer networks.
-- **Networking Concepts:** Covered the OSI model, TCP/IP, and networking fundamentals.
-- **Intro to LAN:** Looked at Local Area Networks, topologies, and basic network design.
-- **HTTP in Detail:** Deep dive into how the web works, requests (GET/POST), headers, and status codes.
+## 🛡️ Getting Started & Careers
+- **Tutorial:** Learned how to use the TryHackMe website to start learning and hacking.
+- **Careers in Cyber:** Discovered the different jobs available in cybersecurity, like becoming a Penetration Tester (my goal!).
 
-## 💻 Operating Systems & Linux
-- **Operating Systems: Introduction:** Basics of operating systems and their core components.
-- **Windows Basics:** Managing files and using essential system tools in Windows.
-- **Inside a Computer System:** A look into computer hardware and how components interact.
-- **Linux Fundamentals (Pt1):** First essential commands in a Linux terminal.
+## 🌐 Networking Basics
+- **What is Networking?:** Learned the basic idea of how computers connect and talk to each other over the internet.
+- **Intro to LAN:** Learned about Local Area Networks (like my Wi-Fi at home) and how devices connect in a small area.
+- **Networking Concepts:** Learned the rules of the internet, including the 7 layers of the OSI model and how data travels.
+- **HTTP in Detail:** Learned how websites work behind the scenes, how my browser asks for web pages, and what error codes like "404 Not Found" actually mean.
 
-## 🛡️ Cybersecurity Concepts
-- **Tutorial:** Started my TryHackMe journey.
-- **Careers in Cyber:** Learned about different cybersecurity roles and paths.
-- **The CIA Triad:** Confidentiality, Integrity, and Availability - the core pillars of infosec.
-- **Defensive Security Intro:** Investigated an ongoing attack at FakeBank; experienced being a digital defender.
+## 💻 Systems (Windows & Linux)
+- **Inside a Computer System:** Looked inside a computer to understand what parts like the CPU, RAM, and hard drives actually do.
+- **Operating Systems: Introduction:** Learned what an Operating System (like Windows or Mac) is and how it manages the computer's hardware.
+- **Windows Basics:** Learned how to use built-in Windows tools and manage files like a pro.
+- **Linux Fundamentals (Pt1):** Typed my very first commands in a Linux terminal! I learned how to use commands like `ls` (list files) and `cd` (change folders).
 
-## 🔍 Practical Skills & Challenges
-- **Search Skills:** Enhancing my ability to find things on the internet efficiently.
-- **Cache Me Outside:** Focused challenge involving web/cache mechanics.
-- **Fools Mate:** A web challenge teaching how to bypass engine constraints.
+## 🔒 Security Concepts & Challenges
+- **The CIA Triad:** Learned the 3 most important rules of security:
+  - **C**onfidentiality: Keep it secret.
+  - **I**ntegrity: Keep the data accurate and untampered.
+  - **A**vailability: Make sure the system is always online when needed.
+- **Defensive Security Intro:** Acted like a security guard for a bank! I investigated a fake cyber attack to see how defenders stop bad guys.
+- **Search Skills:** Learned special tricks to search Google (Google Dorking) so I can find exactly what I need incredibly fast.
+- **Cache Me Outside:** Learned how websites temporarily save data (called caching) so they can load faster for users.
+- **Fools Mate:** Played a hacking game where I figured out how to bypass the rules of a website engine.

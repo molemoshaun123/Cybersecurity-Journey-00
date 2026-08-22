@@ -23,9 +23,10 @@ This repository serves as a personal knowledge base where I document everything 
   - Linux Fundamentals (Pt1)
 
 ## 📚 Table of Contents
-1. [Networking](Networking/OSI-Model-Notes.md)
-2. [Linux](Linux/VirtualBox-Setup-and-Basics.md)
-3. [TryHackMe Writeups](TryHackMe/Writeups.md)
+1. [Networking Basics (OSI Model)](Networking/OSI-Model-Notes.md)
+2. [IP Addresses, Ping & Wireshark](Networking/IP-and-Tools.md)
+3. [Linux Setup & Basics](Linux/VirtualBox-Setup-and-Basics.md)
+4. [TryHackMe Writeups & Summaries](TryHackMe/Writeups.md)
 
 ---
 *Consistency is key on the road to becoming a Pen Tester.*
