@@ -11,7 +11,10 @@ Every device on the internet needs an address, just like a house.
 When using my Linux machine, I use these tools in the terminal:
 
 - **`ping`:** This command acts like a sonar to see if a website or computer is online. Even cooler, I learned I can use it to find the IP address of a company! If I type `ping company.com` (like google or tryhackme), the terminal will show me the exact IP address behind that company's website.
-- **`ifconfig`:** (Interface Configuration). I use this command to see my own computer's IP address and check if my network adapter is working properly. 
+- **`ifconfig` / `ip a`:** Used to see my own computer's IP address and check my network interfaces. `ip a` is the newer standard command for this.
+- **`iwconfig`:** Similar to `ifconfig` or `ip a`, but specifically used for wireless (Wi-Fi) connections. It shows the Wi-Fi network name and signal strength.
+- **`ip n` / `arp -a`:** These commands show the ARP table, which is a "contact book" of the local network. It shows the IP and MAC addresses of other devices my computer has recently talked to.
+- **`ip r` / `route`:** These show the routing table (the "map" or directions). It tells the computer which path to take to send data out to the internet, usually through the home router (default gateway). 
 
 ## Wireshark & The TCP 3-Way Handshake
 **Wireshark** is a tool that lets me "sniff" or capture data packets flying through the network. 

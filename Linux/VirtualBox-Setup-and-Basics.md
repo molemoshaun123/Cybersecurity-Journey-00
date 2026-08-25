@@ -18,3 +18,5 @@ Here are some of the fundamental commands I learned during my TryHackMe Linux Fu
 - `find`: Used to search for files in a directory hierarchy.
 - `grep`: Used to search for specific text within files.
 - `sudo mkdir`: `mkdir` (Make Directory) creates a new folder. Adding `sudo` in front of it gives me "Superuser" (administrator) powers, allowing me to create folders in protected areas of the computer!
+- `mousepad`: A simple graphical text editor (often used in Kali Linux), similar to Notepad on Windows. Great for quickly editing text files or scripts.
+- `su`: Stands for "switch user". It allows you to switch to the `root` (admin) account to run powerful commands without needing to type `sudo` every time.
