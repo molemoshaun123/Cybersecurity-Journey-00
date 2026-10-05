@@ -4,7 +4,7 @@ Welcome to my personal cybersecurity journey! My ultimate goal is to become a **
 This repository serves as a personal knowledge base where I document everything I learn along the way.
 
 ## 🏆 Achievements
-- **TryHackMe Streak:** 🔥 21 Days!
+- **TryHackMe Streak:** 🔥 65 Days!
 - **Completed Modules:** 
   - Tutorial
   - HTTP in Detail
